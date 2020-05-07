@@ -1,4 +1,4 @@
 # DX-BALL
-igraphics project
-first project on igraphics at 1-1
+igraphics project 
+IGraphics-A Game Engine , using c and igraphics,game can be created
 
