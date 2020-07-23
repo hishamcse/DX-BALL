@@ -1,0 +1,242 @@
+# depslib dependency file v1.0
+1563612932 source:c:\users\user\desktop\igraphics\imain.cpp
+	"iGraphics.h"
+	<math.h>
+	<stdio.h>
+
+1563087260 c:\users\user\desktop\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\user\desktop\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1565071967 source:f:\igraphics\igraphics\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 f:\igraphics\igraphics\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 f:\igraphics\igraphics\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 f:\igraphics\igraphics\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 f:\igraphics\igraphics\opengl\include\gl.h
+
+1565328215 source:f:\igraphics\our project\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+
+1563087260 f:\igraphics\our project\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 f:\igraphics\our project\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 f:\igraphics\our project\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 f:\igraphics\our project\opengl\include\gl.h
+
+1565386871 source:c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\our project update\balldemo.cpp
+	"iGraphics.h"
+	"gl.h"
+	<stdbool.h>
+	<stdlib.h>
+	<ctype.h>
+	<math.h>
+
+1563087260 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\our project update\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	"glaux.h"
+
+1563087260 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\our project update\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\our project update\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\our project update\opengl\include\gl.h
+
+1566500629 source:c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\balldemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1532683758 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"stb_image.h"
+
+1513661428 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1513661424 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1563087260 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\gl.h
+
+1513431142 c:\users\windows-10\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1568485468 source:c:\users\hisham\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\balldemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1566740446 c:\users\hisham\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"stb_image.h"
+
+1513661428 c:\users\hisham\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1513661424 c:\users\hisham\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1513431142 c:\users\hisham\desktop\hisham_cse\cse l-1,t-1\cse 102 sessional\dx ball final\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1568503992 source:c:\users\asus\downloads\dx ball final\balldemo.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<windows.h>
+
+1568503998 c:\users\asus\downloads\dx ball final\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	"glaux.h"
+	"stb_image.h"
+
+1568504012 c:\users\asus\downloads\dx ball final\opengl\include\glut.h
+	<windows.h>
+	<stdlib.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568504012 c:\users\asus\downloads\dx ball final\opengl\include\glaux.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1568504014 c:\users\asus\downloads\dx ball final\opengl\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
