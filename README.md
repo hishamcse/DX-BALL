@@ -1,4 +1,4 @@
 # DX-BALL
-igraphics project 
-IGraphics-A Game Engine , using c and igraphics,game can be created
+### Igraphics project DX BALL Game
+IGraphics-A Game Engine & wrapper of OPENGL
 
